@@ -3,7 +3,6 @@
 #### Name: Chia_Wei,Wu
 #### Student ID: 111753141
 #### ShinyApps link: [<https://jacobwu.shinyapps.io/NCCU_DS2023_hw4_111753141/>]
->>>>>>> c28f8d1 (hw4_0510_0116)
 
 ## Description
 
